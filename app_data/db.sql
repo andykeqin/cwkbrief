@@ -10,7 +10,7 @@ CREATE TABLE `group`(
     PRIMARY KEY(id)
 )ENGINE=MYISAM;
 
-INSERT INTO `group`(name) VALUE('group1'),('group2');
+INSERT INTO `group`(name) VALUE('group1'),('group2'),('group3'),('group4'),('group5'),('group6'),('group7'),('group8'),('group9'),('group10');
 
 -- user
 CREATE TABLE `user`(
